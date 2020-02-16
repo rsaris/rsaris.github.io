@@ -7,7 +7,8 @@ const AboutPage = () => (
     <h1>Bob Saris</h1>
     <div className="AboutPage__contact">
       bob at bobsaris.com<br />
-      <a href="https://www.linkedin.com/in/robertsaris/">LinkedIn</a>
+      <a href="https://www.linkedin.com/in/robertsaris/">LinkedIn</a><br />
+      <a href="https://github.com/rsaris">Github</a>
     </div>
     <p>
       Bob is the CTO and Co-Founder of User Interviews (
